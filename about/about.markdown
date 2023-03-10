@@ -1,5 +1,11 @@
-# colib0.github.io
-Collaborative Open-Source Dynamic Simulation Library
+---
+layout: default
+title: About
+permalink: /about/
+---
+
+
+# Why this library?
 
 The power system and energy systems at large experience a paradigm shift with many novel , active components connected. Appraising the behavior and reactions of such new items is critical for network operators to simulate and anticipate system operation, and for this, available, reliable up to date and possibly specifically targeted component models are required.
 
@@ -10,6 +16,13 @@ On the other hand, research also suffers from the lack of all the necessary comp
 
 They both face the need for a collaborative shared dynamic simulation library that would benefit to all by its high quality, transparency of model equations, and concrete applications (real test cases).
 
-In this Colib workspace, we aim at addressing  power systems components, networks, and small and large test cases for steady-state and dynamic stability studies.
-For each of them, the description of the object is presented on one side, and the links to open source implementations with indicators on the quality on the other side.
+# How does it work?
+
+# Who develops it ? Who uses it? 
+
+# How to contribute ?
+
+# Code of conduct
+
+
 
