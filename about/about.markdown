@@ -18,7 +18,7 @@ They both face the need for a collaborative shared dynamic simulation library th
 
 ## How does it work?
 
-## Who develops it ? Who uses it? 
+## Team members (developers, testers and maintainers) 
 
 ## How to contribute ?
 
